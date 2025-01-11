@@ -1,7 +1,8 @@
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
 theme: jekyll-theme-slate
 title: CLIP Form 1 Online Links 
 description: CLIP Form 1 Online Links
 
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme 
+ 
