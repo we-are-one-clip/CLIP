@@ -1,5 +1,3 @@
-# CLIP
-
 <h2> 
 <p align="center">
 CLIP Form 1 Online Links
