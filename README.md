@@ -6,7 +6,7 @@ CLIP Form 1 Online Links
 
 <h4>
 <p align="center">
-  <a href="https://CLIP.github.io/Phonics">Phonics</a>
+  <a href="https://we-are-one-clip.github.io/we-are-one-clip/Phonics">Phonics</a>
   <br>
 </p>
 </h4>
