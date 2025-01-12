@@ -5,11 +5,15 @@ Watch a video to learn the sound:
 
 <iframe width="220" height="124" src="https://www.youtube.com/embed/nAh0nZE7pxo?si=9Ny5wCjfqmizGtFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>    
 
-<iframe width="220" height="124" src="https://www.youtube.com/embed/iPVt0TB2Pco?si=tkQ3g3xKENALbkjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+<iframe width="220" height="124" src="https://www.youtube.com/embed/iPVt0TB2Pco?si=tkQ3g3xKENALbkjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      
+
+Do you need some extra blending practice:     
+<iframe width="220" height="124" src="https://www.youtube.com/embed/QvmfvMkrfx4?si=UC29U7TuP38hhVAS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>      
 
 Play a game:   
 
-[![lcair1](/images/lcair1.png)](https://www.learningchocolate.com/en/en-gb/word-set/trigraph-air-1)   
+[![lcair1](/images/lcair1.png)](https://www.learningchocolate.com/en/en-gb/word-set/trigraph-air-1)    
+User-created resource published on the Learning Chocolate Vocabulary Learning Platform    
 
 ### 'ear' as in ear
 Watch a video to learn the sound:   
